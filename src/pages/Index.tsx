@@ -5,11 +5,11 @@ const NAV_ITEMS = [
   { id: 'home', label: 'Главная' },
   { id: 'about', label: 'О проекте' },
   { id: 'animals', label: 'Животные' },
-  { id: 'help', label: 'Как помочь' },
+  { id: 'help', label: 'Поддержка' },
   { id: 'news', label: 'Новости' },
   { id: 'volunteers', label: 'Волонтёры' },
   { id: 'reports', label: 'Отчёты' },
-  { id: 'contacts', label: 'Контакты' },
+  { id: 'contacts', label: 'Связь' },
 ];
 
 const ANIMALS = [
