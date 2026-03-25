@@ -544,6 +544,7 @@ const Index = () => {
               { icon: 'Phone', label: 'Телефон', value: '+7 (XXX) XXX-XX-XX' },
               { icon: 'Mail', label: 'Email', value: 'animals@fevralsk.ru' },
               { icon: 'Clock', label: 'Режим работы', value: 'Пн–Вс: 10:00 – 18:00' },
+
             ].map(item => (
               <div key={item.label}
                 className="flex gap-4 items-center p-5 rounded-2xl"
